@@ -26,7 +26,7 @@ npm i -D eslint @rocketseat/eslint-config
 
 
 4 - For new config
-
+```
 {
   "extends": "@rocketseat/eslint-config/react",
   "rules": {
@@ -41,3 +41,4 @@ npm i -D eslint @rocketseat/eslint-config
     ]
   }
 }
+```
